@@ -5,7 +5,7 @@ export default function App() {
     <div>
       <header>
         <h1>
-          RESCAT
+          RESCAT!
         </h1>
       </header>
     </div>
