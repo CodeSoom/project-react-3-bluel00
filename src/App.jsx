@@ -7,9 +7,7 @@ export default function App() {
       <ul
         style={{
           display: 'flex',
-
           overflow: 'auto',
-
           flexWrap: 'wrap',
         }}
       >
