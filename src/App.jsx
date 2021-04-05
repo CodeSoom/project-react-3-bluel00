@@ -4,7 +4,6 @@ export default function App() {
   return (
     <div>
       <title>RESCAT</title>
-
       <ul
         style={{
           display: 'flex',
